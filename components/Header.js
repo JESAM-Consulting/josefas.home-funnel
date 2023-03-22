@@ -10,7 +10,7 @@ export default function Header() {
         content="Photovoltaik Angebot - individuelle Solar-Beratung."
       />
 
-      <link rel="icon" href="/favicon.svg" />
+      <link rel="icon" href="/favicon.png" />
     </Head>
   );
 }
